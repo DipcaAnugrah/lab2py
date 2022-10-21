@@ -30,5 +30,4 @@ hasil kode program:
 # Mengcommit file yang ada didalam Repository lab2py
 ![img.6](gambar/git%20add.png)
 
-# Push file yang ada didalam Repository local ke Repository server
 
