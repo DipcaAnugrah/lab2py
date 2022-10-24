@@ -1,6 +1,6 @@
 #lab2py 
 # Menjalankan python console
-1. Pertama paetikan anda sudah mendownload python
+1. Pertama pastikan anda sudah mendownload python
 
 3. Buka Cmd(Command Prompt) dengan cara tekan windows + r lalu ketik "cmd"
 ![img.1](gambar/2022-10-21%20(15).png)
